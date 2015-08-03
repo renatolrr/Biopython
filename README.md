@@ -1,2 +1,2 @@
 # Biopython
-Curso de BioPython
+Curso de Biopython.
