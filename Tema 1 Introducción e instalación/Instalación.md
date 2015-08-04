@@ -27,4 +27,6 @@ http://biopython.org/DIST/docs/install/Installation.html
 ##Trabajar con diferentes versiones de python.  
 
 En linux: http://hotfixed.net/trabajar-con-diferentes-versiones-de-python-en-linux/
+En debian: https://raymii.org/s/tutorials/Install_Python_2.7_or_3_on_debian_6.html
+
   
