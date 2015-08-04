@@ -23,4 +23,8 @@ http://biopython.org/DIST/docs/install/Installation.pdf
 
 Documentación:  
 http://biopython.org/DIST/docs/install/Installation.html  
+
+##Trabajar con diferentes versiones de python.  
+
+En linux: http://hotfixed.net/trabajar-con-diferentes-versiones-de-python-en-linux/
   
