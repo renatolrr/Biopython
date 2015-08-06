@@ -1,1 +1,9 @@
-##Biopython.
+##Biopython.  
+   
+###Instalación  
+  
+###Paquetes  
+  
+###Ejemplos  
+  
+  
