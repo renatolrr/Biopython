@@ -39,18 +39,23 @@ def count6(dna,base):
 t0 = time.time()
 print count1(x,y)
 print time.time() - t0
+
 t0 = time.time()
 print count2(x,y)
 print time.time() - t0
+
 t0 = time.time()
 print count3(x,y)
 print time.time() - t0
+
 t0 = time.time()
 print count4(x,y)
 print time.time() - t0
+
 t0 = time.time()
 print count5(x,y)
 print time.time() - t0
+
 t0 = time.time()
 print count6(x,y)
 print time.time() - t0
