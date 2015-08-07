@@ -3,7 +3,8 @@ Ejercicio con utilización de funciones y librerias
 Fuente:   
 Universidad Johns Hopkins  
 Python for Genomic Data Science  
-'''
+  
+~~~
 import time
 
 x="absbsbsbscss"
@@ -53,4 +54,4 @@ print time.time() - t0
 t0 = time.time()
 print count6(x,y)
 print time.time() - t0
-'''
+~~~
